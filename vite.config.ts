@@ -5,7 +5,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/PANEL-FINAL/',
+    base: '/Simulador-panel-Caex/',
 
     plugins: [react(), tailwindcss()],
 
